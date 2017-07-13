@@ -5,3 +5,9 @@ img, video, audio, iframe, table, form {
   max-width: 100%;
 
 }
+
+/*/// LAYOUT STYLES ///*/
+
+.row  {
+  margin-bottom: 20px;
+}
